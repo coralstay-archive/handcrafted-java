@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "snippets": {
+    "practice/01_starter/01_fundamentals/01_intro/main.java::solveKata": {
+      "code_sha256": "8be4f80c520bb676065c283a1368c4120e79da389c5cb1e6cf6a27ed2b08c05e",
+      "description": "01_intro",
+      "file_path": "practice/01_starter/01_fundamentals/01_intro/main.java",
+      "language": "java",
+      "line_number": 1,
+      "reviewer": "",
+      "status": "PENDING_REVIEW",
+      "symbol": "solveKata",
+      "verified_at": "",
+      "verified_sha256": ""
+    }
+  }
+}

@@ -1,0 +1,63 @@
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+.kotlin
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+.idea
+.idea/
+
+docs/
+/contents/
+/content_data/
+practice/**/README.md
+practice/**/assets/
+practice/**/.skeleton/
+
+### 공개 저장소 제외 (TASK-16, 2026-10-31) ###
+# 제3자 저작물: Oracle JLS/JVMS 명세서 등 재배포 권리가 없는 자료
+/jls-spec/
+*.pdf
+*.epub
+/contents/
+/content_data/
+.opensource/
+/Books/
